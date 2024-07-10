@@ -1,0 +1,113 @@
+Módulo 1: Programación en Python
+
+Python es un lenguaje de programación de alto nivel, interpretado y de propósito general, conocido por su legibilidad y simplicidad. Para empezar a usar Python, primero necesitas instalarlo en tu computadora. Puedes descargarlo desde python.org.
+
+Puedes escribir y ejecutar código Python en varios entornos, como:
+
+IDLE (el entorno de desarrollo integrado que viene con Python)
+Anaconda (una distribución de Python que incluye muchas herramientas útiles)
+VS Code, PyCharm y otros editores de texto o IDEs.
+
+El código Python se escribe en archivos con la extensión ".py". Aquí tienes un ejemplo simple de un archivo Python "print("Hola, Mundo!")". 
+
+Python tiene una sintaxis muy clara y fácil de leer y tiene una amplia gama de bibliotecas estándar y de terceros que puedes usar para extender su funcionalidad. Puedes importar estas bibliotecas usando la palabra clave "import".
+
+Principios del diseño en Python:
+
+- Legibilidad: La sintaxis de Python está diseñada para ser fácil de leer.
+
+- Simplicidad: Python promueve la escritura de código simple y claro.
+
+- Modularidad: Python soporta la creación de módulos y paquetes reutilizables.
+
+Módulo 2: Lenguaje de Consultas a una Base de Datos
+
+El Lenguaje de Consultas a una Base de Datos, más conocido como SQL (Structured Query Language), es un lenguaje estándar utilizado para gestionar y manipular bases de datos relacionales.
+
+Conceptos básicos de bases de datos:
+
+- Base de datos: Una colección organizada de datos.
+
+- Tabla: Una estructura dentro de una base de datos que organiza los datos en filas y columnas.
+
+- Registro: Una fila en una tabla.
+
+- Campo: Una columna en una tabla.
+
+SQL es un lenguaje muy poderoso y flexible para trabajar con bases de datos relacionales. 
+
+Módulo 3: Fundamentos de Desarrollo Web
+
+El desarrollo web es el proceso de creación y mantenimiento de sitios web. Involucra una variedad de tecnologías y disciplinas, desde el diseño de la interfaz de usuario hasta la programación del lado del servidor y la administración de bases de datos. 
+
+Estructura básica de un sitio web:
+
+- HTML (HyperText Markup Language)
+
+HTML es el lenguaje de marcado que se utiliza para estructurar el contenido en la web. Define la estructura de las páginas web utilizando etiquetas.
+
+- CSS (Cascading Style Sheets)
+
+CSS se utiliza para controlar la apariencia y el diseño de las páginas web. Permite aplicar estilos como colores, fuentes, espaciado, y más.
+
+- JavaScript
+
+JavaScript es un lenguaje de programación que se utiliza para crear contenido dinámico e interactivo en las páginas web. Permite manipular el DOM (Document Object Model), validar formularios, crear animaciones, y más.
+
+Desarrollo del lado del servidor:
+
+El desarrollo del lado del servidor involucra la creación de aplicaciones que se ejecutan en el servidor y generan contenido dinámico para el cliente. Los lenguajes y tecnologías comunes incluyen:
+
+- PHP: Un lenguaje de scripting del lado del servidor muy popular.
+
+- Python (con frameworks como Django o Flask): Utilizado para desarrollar aplicaciones web robustas y escalables.
+
+- JavaScript (con Node.js): Permite utilizar JavaScript en el lado del servidor.
+
+- Ruby (con Ruby on Rails): Un framework popular para el desarrollo rápido de aplicaciones web.
+
+- Java (con Spring): Utilizado para aplicaciones empresariales de gran escala.
+
+Frameworks y herramientas:
+
+Los frameworks y herramientas facilitan y aceleran el desarrollo web al proporcionar estructuras y componentes reutilizables.
+
+* Frameworks de frontend:
+
+- React: Una biblioteca de JavaScript para construir interfaces de usuario.
+
+- Angular: Un framework de desarrollo web para crear aplicaciones web de una sola página.
+
+- Vue.js: Un framework progresivo de JavaScript para construir interfaces de usuario.
+
+* Frameworks de backend:
+
+- Django: Un framework web de alto nivel para Python.
+
+- Express.js: Un framework minimalista para Node.js.
+
+- Laravel: Un framework web para PHP.
+
+Protocolo HTTP/HTTPS: 
+
+HTTP (HyperText Transfer Protocol) es el protocolo utilizado para la comunicación entre clientes (navegadores web) y servidores web. HTTPS (HTTP Secure) es la versión segura de HTTP, que utiliza SSL/TLS para cifrar los datos transmitidos.
+
+API (Application Programming Interface):
+
+Las APIs permiten que diferentes sistemas y aplicaciones se comuniquen entre sí. En el desarrollo web, comúnmente se utilizan APIs REST (Representational State Transfer) y APIs GraphQL.
+
+Herramientas y flujo de trabajo:
+
+- Control de versiones (Git): Permite gestionar y seguir el historial de cambios en el código.
+
+- Automatización de tareas (Gulp, Webpack): Herramientas para automatizar tareas comunes como la minificación de archivos y la compilación de código.
+
+- Entornos de desarrollo integrados (IDE): Herramientas como Visual Studio Code, Sublime Text y JetBrains WebStorm facilitan la escritura y el depurado de código.
+
+Pruebas y despliegue: 
+
+- Pruebas: Pruebas unitarias, de integración y end-to-end para asegurar la calidad del código (Jest, Mocha, Selenium).
+
+- Despliegue: Implementación del sitio web en servidores (Heroku, AWS, DigitalOcean).
+
+El desarrollo web es un campo vasto y en constante evolución puesto que nada asegura que nuevas tecnologías reemplacen y dejen obsoleto el conocimiento con el que contamos hoy en día.
