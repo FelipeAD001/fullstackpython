@@ -111,3 +111,5 @@ Pruebas y despliegue:
 - Despliegue: Implementación del sitio web en servidores (Heroku, AWS, DigitalOcean).
 
 El desarrollo web es un campo vasto y en constante evolución puesto que nada asegura que nuevas tecnologías reemplacen y dejen obsoleto el conocimiento con los que contamos hoy en día.
+
+							Módulo 2: Desarrollo de aplicaciones web dinámicas con Python.
