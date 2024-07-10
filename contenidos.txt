@@ -110,4 +110,4 @@ Pruebas y despliegue:
 
 - Despliegue: Implementación del sitio web en servidores (Heroku, AWS, DigitalOcean).
 
-El desarrollo web es un campo vasto y en constante evolución puesto que nada asegura que nuevas tecnologías reemplacen y dejen obsoleto el conocimiento con el que contamos hoy en día.
+El desarrollo web es un campo vasto y en constante evolución puesto que nada asegura que nuevas tecnologías reemplacen y dejen obsoleto el conocimiento con los que contamos hoy en día.
